@@ -1,0 +1,63 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>table</title>
+
+</head>
+<body>
+  <table align="center" style="color: blue;">
+    <h1 aling="center"> user sign up</h1>
+    <hr>
+    <tr>
+        <td>
+            user name
+        </td>
+        <td>
+            <input type="text"placeholder="enter first name"></td>
+        </td>
+
+
+        <tr>
+
+            <td>
+
+                password
+            </td>
+            <td>
+                <input type="text"placeholder="enter your password"></td>
+
+            </td>
+            <tr>
+
+                <td>
+                    date of birth
+                </td>
+                <td>input type="Date</td>
+            </tr>
+
+            <tr>
+
+                <td>
+                    email
+
+                </td>
+                <td input type="email"placeholder="enter your email"></td>
+
+            </tr>
+            <tr>
+               <td>addresses</td>
+               <td><textarea ></textarea></td>
+            </tr>
+            <tr>
+
+                <td> <input type="submit"></td>
+                </tr>
+               </table>
+            </tr>
+        
+    
+</body>
+</html>
